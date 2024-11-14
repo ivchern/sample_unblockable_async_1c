@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="5bb47d5e-a540-4853-b624-df44b5a8fc79">
+  <producedTypes>
+    <objectType typeId="82f1a9fa-4ffd-42ce-a894-011d277cf8dd" valueTypeId="6bd32e6c-debb-43bd-8fc5-8e2062aaae55"/>
+    <managerType typeId="49e1248d-f643-4098-b668-371169031da2" valueTypeId="c47a808d-6157-4ce1-8cb3-fad304ae5062"/>
+  </producedTypes>
+  <name>НеблокирующийИнтерфейс</name>
+  <synonym>
+    <key>ru</key>
+    <value>Неблокирующий интерфейс</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>Report.НеблокирующийИнтерфейс.Form.ФормаОтчета</defaultForm>
+  <forms uuid="2d5ded7a-4513-4347-8aad-b18f4cf0535d">
+    <name>ФормаОтчета</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма отчета</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:Report>

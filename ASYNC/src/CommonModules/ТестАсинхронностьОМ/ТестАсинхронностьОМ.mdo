@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="8a9bceee-6b56-4861-9e5c-63e273b90a1b">
+  <name>ТестАсинхронностьОМ</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тест асинхронность ОМ</value>
+  </synonym>
+  <clientManagedApplication>true</clientManagedApplication>
+  <server>true</server>
+</mdclass:CommonModule>
